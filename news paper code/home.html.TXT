@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Page Title</title>
+    <link rel="stylesheet" href="assets/css/mystyle.css" type="text/css">
+
+
+
+</head>
+
+<body>
+    <div class="text center">
+        <div class="logo">
+            <i class="fa fa-newspaper-0" aria-hidden="true"></i>
+            <p>The main post</p>
+        </div>
+    </div>
+
+
+    <div class="container">
+        <nav>
+            <ul>
+                <li><a href="#">Home</a> </li>
+                <li><a href="#">News</a> </li>
+                <li><a href="#">Businesses</a> </li>
+                <li><a href="#">Tv</a> </li>
+                <li><a href="#">Technology</a> </li>
+                <li><a href="#">commedy</a> </li>
+            </ul>
+        </nav>
+    </div>
+
+    <main class="container">
+        <div class="row">
+            <div class="col">
+                <h3>This is haeding line</h3>
+                <p>the most essential components of our environment. They take in sunlight, carbon dioxide and water to produce oxygen which helps to support all forms of life on earth. Various kinds of trees can be found which provide us materials for food,
+                    shelter, clothing and medicines</p>
+
+                <img src="../image/apple.jpg">
+
+                <p>the most essential components of our environment. They take in sunlight, carbon dioxide and water to produce oxygen which helps to support all forms of life on earth. Various kinds of trees can be found which provide us materials for food,
+                    shelter, clothing and medicines</p>
+
+                <p>the most essential components of our environment. They take in sunlight, carbon dioxide and water to produce oxygen which helps to support all forms of life on earth. Various kinds of trees can be found which provide us materials for food,
+                    shelter, clothing and medicines</p>
+            </div>
+
+            <div class="col">
+                <h3>This is haeding line</h3>
+                <p>the most essential components of our environment. They take in sunlight, carbon dioxide and water to produce oxygen which helps to support all forms of life on earth. Various kinds of trees can be found which provide us materials for food,
+                    shelter, clothing and medicines</p>
+
+                <img src="../image/apple.jpg">
+
+                <p>the most essential components of our environment. They take in sunlight, carbon dioxide and water to produce oxygen which helps to support all forms of life on earth. Various kinds of trees can be found which provide us materials for food,
+                    shelter, clothing and medicines</p>
+
+                <p>the most essential components of our environment. They take in sunlight, carbon dioxide and water to produce oxygen which helps to support all forms of life on earth. Various kinds of trees can be found which provide us materials for food,
+                    shelter, clothing and medicines</p>
+            </div>
+
+            <div class="col">
+                <h3>This is haeding line</h3>
+
+                <img src="../image/apple.jpg">
+
+                <p>the most essential components of our environment. They take in sunlight, carbon dioxide and water to produce oxygen which helps to support all forms of life on earth. Various kinds of trees can be found which provide us materials for food,
+                    shelter, clothing and medicines</p>
+
+
+            </div>
+        </div>
+    </main>
+</body>
+
+</html>
